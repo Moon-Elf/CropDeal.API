@@ -172,3 +172,4 @@ D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.0\CropDeal.API.pdb
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.0\CropDeal.API.genruntimeconfig.cache
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.0\ref\CropDeal.API.dll
+D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
