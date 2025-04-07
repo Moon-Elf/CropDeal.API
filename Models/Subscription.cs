@@ -18,5 +18,9 @@ namespace CropDeal.API.Models
         public Guid CropId { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+
+        // Navigation properties
+        public Crop Crop { get; set; }
+        public User Dealer { get; set; }
     }
 }

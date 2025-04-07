@@ -27,5 +27,10 @@ namespace CropDeal.API.Models
         public string Comment { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+
+        // Navigation properties
+        public User Dealer { get; set; }
+        public User Farmer { get; set;}
+        public Transaction Transaction { get; set; }
     }
 }

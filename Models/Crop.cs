@@ -25,5 +25,9 @@ namespace CropDeal.API.Models
         public CropTypeEnum Type { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+
+        // Navigation properties
+        public ICollection<Subscription>? Subscriptions { get; set; }
+        public ICollection<CropListing>? CropListings { get; set; }
     }
 }

@@ -17,11 +17,15 @@ namespace CropDeal.API.Models
         public string Content { get; set; }
 
         [Required]
-        public Guid GeneratedBy { get; set; }
+        public Guid GeneratedById { get; set; }
 
         [Required]
-        public Guid GeneratedFor { get; set; }
+        public Guid GeneratedForId { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+
+        // Navigation properties
+        public User GeneratedBy { get; set; }
+        public User GeneratedFor { get; set; }
     }
 }

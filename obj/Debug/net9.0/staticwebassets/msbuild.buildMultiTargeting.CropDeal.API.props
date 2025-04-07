@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CropDeal.API.props" />
+</Project>
