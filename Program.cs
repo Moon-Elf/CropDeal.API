@@ -1,6 +1,9 @@
 using System.Text;
 using CropDeal.API.Data;
+using CropDeal.API.Interfaces;
+using CropDeal.API.Middleware;
 using CropDeal.API.Models;
+using CropDeal.API.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -16,7 +19,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddIdentity<User, IdentityRole<Guid>>()
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
-    
+
 
 var jwtKey = builder.Configuration["Jwt:Key"];
 var jwtIssuer = builder.Configuration["Jwt:Issuer"];
@@ -41,14 +44,19 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
+builder.Services.AddScoped<IProfileRepository, ProfileRepository>();
+builder.Services.AddScoped<IAddressRepository, AddressRepository>();
+builder.Services.AddScoped<IBankAccountRepository, BankAccountRepository>();
+builder.Services.AddScoped<ICropRepository, CropRepository>();
+
 // Add controllers
 builder.Services.AddControllers();
 
 // Swagger for testing
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
-{    
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "JWT Authentication", Version = "v1",});
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "JWT Authentication", Version = "v1", });
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         In = ParameterLocation.Header,
@@ -90,8 +98,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseMiddleware<ExceptionMiddleware>();
 app.UseAuthentication();
-app.UseAuthorization(); // If you plan to use [Authorize] in future
+app.UseAuthorization();
 app.MapControllers();
 
 app.Run();

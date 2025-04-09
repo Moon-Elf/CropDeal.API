@@ -9,6 +9,7 @@ D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\Azure.Core.dll
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\Azure.Identity.dll
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\Humanizer.dll
+D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -172,4 +173,3 @@ D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.0\CropDeal.API.pdb
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.0\CropDeal.API.genruntimeconfig.cache
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.0\ref\CropDeal.API.dll
-D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

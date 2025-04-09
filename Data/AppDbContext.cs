@@ -69,7 +69,7 @@ namespace CropDeal.API.Data
                 .WithMany(u => u.GeneratedReports)
                 .HasForeignKey(r => r.GeneratedById)
                 .OnDelete(DeleteBehavior.Restrict);
-            
+
             modelBuilder.Entity<Report>()
                 .HasOne(r => r.GeneratedFor)
                 .WithMany(u => u.ReceivedReports)
@@ -81,7 +81,7 @@ namespace CropDeal.API.Data
                 .WithMany(u => u.Transactions)
                 .HasForeignKey(t => t.DealerId)
                 .OnDelete(DeleteBehavior.NoAction);
-            
+
             modelBuilder.Entity<Transaction>()
                 .HasOne(t => t.PurchasingCrop)
                 .WithMany()

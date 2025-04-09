@@ -30,7 +30,7 @@ namespace CropDeal.API.Models
 
         // Navigation properties
         public User Dealer { get; set; }
-        public User Farmer { get; set;}
+        public User Farmer { get; set; }
         public Transaction Transaction { get; set; }
     }
 }
