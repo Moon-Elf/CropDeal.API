@@ -50,6 +50,7 @@ builder.Services.AddScoped<IAddressRepository, AddressRepository>();
 builder.Services.AddScoped<IBankAccountRepository, BankAccountRepository>();
 builder.Services.AddScoped<ICropRepository, CropRepository>();
 builder.Services.AddScoped<ISubscriptionRepository, SubscriptionRepository>();
+builder.Services.AddScoped<ICropListingRepository, CropListingRepository>();
 
 // Add controllers
 builder.Services.AddControllers()
