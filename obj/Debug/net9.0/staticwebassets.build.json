@@ -1,12 +1,362 @@
 {
   "Version": 1,
-  "Hash": "LArJjCpvsgZ3GCX7EgZXKla5S1/IybAPQlQ//MCB16Q=",
+  "Hash": "UeESzjKLaEVY6KkgZ9YCepLLnRR0rTu5jI4ykQyi1ok=",
   "Source": "CropDeal.API",
   "BasePath": "_content/CropDeal.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "CropDeal.API\\wwwroot",
+      "Source": "CropDeal.API",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\obj\\Debug\\net9.0\\compressed\\8uwvz8dgx5-jh7vvhjhhh.gz",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "css/SwaggerDark#[.{fingerprint=jh7vvhjhhh}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\css\\SwaggerDark.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3pxsg9ns33",
+      "Integrity": "l912zw6K1QZOuc7B0WojWopoyip0zqJApapq+o5DmYI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\css\\SwaggerDark.css"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\css\\SwaggerDark.css",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "css/SwaggerDark#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jh7vvhjhhh",
+      "Integrity": "WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\SwaggerDark.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/SwaggerDark.css",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\obj\\Debug\\net9.0\\compressed\\8uwvz8dgx5-jh7vvhjhhh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000099265436"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10073"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l912zw6K1QZOuc7B0WojWopoyip0zqJApapq+o5DmYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 18:46:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/SwaggerDark.css",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\css\\SwaggerDark.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 18:46:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/SwaggerDark.css.gz",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\obj\\Debug\\net9.0\\compressed\\8uwvz8dgx5-jh7vvhjhhh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l912zw6K1QZOuc7B0WojWopoyip0zqJApapq+o5DmYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 18:46:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l912zw6K1QZOuc7B0WojWopoyip0zqJApapq+o5DmYI="
+        }
+      ]
+    },
+    {
+      "Route": "css/SwaggerDark.jh7vvhjhhh.css",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\obj\\Debug\\net9.0\\compressed\\8uwvz8dgx5-jh7vvhjhhh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000099265436"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10073"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l912zw6K1QZOuc7B0WojWopoyip0zqJApapq+o5DmYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 18:46:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jh7vvhjhhh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/SwaggerDark.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/SwaggerDark.jh7vvhjhhh.css",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\css\\SwaggerDark.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 18:46:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jh7vvhjhhh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/SwaggerDark.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/SwaggerDark.jh7vvhjhhh.css.gz",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\obj\\Debug\\net9.0\\compressed\\8uwvz8dgx5-jh7vvhjhhh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l912zw6K1QZOuc7B0WojWopoyip0zqJApapq+o5DmYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 18:46:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jh7vvhjhhh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/SwaggerDark.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l912zw6K1QZOuc7B0WojWopoyip0zqJApapq+o5DmYI="
+        }
+      ]
+    }
+  ]
 }

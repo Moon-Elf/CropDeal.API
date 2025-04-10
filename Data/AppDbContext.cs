@@ -105,6 +105,26 @@ namespace CropDeal.API.Data
                 .WithOne()
                 .HasForeignKey<Review>(r => r.TransactionId)
                 .OnDelete(DeleteBehavior.Restrict);
+
+            // =====================
+            // Enum to String Mapping
+            // =====================
+            modelBuilder.Entity<Crop>()
+                .Property(c => c.Type)
+                .HasConversion<string>();
+
+            modelBuilder.Entity<CropListing>()
+                .Property(cl => cl.Status)
+                .HasConversion<string>();
+
+            modelBuilder.Entity<Transaction>()
+                .Property(t => t.Status)
+                .HasConversion<string>();
+
+            modelBuilder.Entity<User>()
+                .Property(u => u.Status)
+                .HasConversion<string>();
+
         }
 
 

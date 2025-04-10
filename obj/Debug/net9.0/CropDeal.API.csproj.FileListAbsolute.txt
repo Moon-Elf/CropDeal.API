@@ -173,3 +173,7 @@ D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.0\CropDeal.API.pdb
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.0\CropDeal.API.genruntimeconfig.cache
 D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.0\ref\CropDeal.API.dll
+D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\CropDeal.API.staticwebassets.runtime.json
+D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\obj\Debug\net9.0\compressed\8uwvz8dgx5-jh7vvhjhhh.gz
+D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\AutoMapper.dll
+D:\Capgemini\Project or Case study\CropDeal\backend\CropDeal.API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

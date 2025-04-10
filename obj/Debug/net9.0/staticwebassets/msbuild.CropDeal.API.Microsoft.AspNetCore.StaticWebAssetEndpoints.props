@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CropDeal.API/css/SwaggerDark.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\SwaggerDark.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"51124"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 18:46:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CropDeal.API/css/SwaggerDark.jh7vvhjhhh.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\SwaggerDark.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jh7vvhjhhh"},{"Name":"integrity","Value":"sha256-WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q="},{"Name":"label","Value":"_content/CropDeal.API/css/SwaggerDark.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51124"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 18:46:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

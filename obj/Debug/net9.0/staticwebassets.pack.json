@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\css\\SwaggerDark.css",
+      "PackagePath": "staticwebassets\\css\\SwaggerDark.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CropDeal.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CropDeal.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CropDeal.API.props",
+      "PackagePath": "build\\CropDeal.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CropDeal.API.props",
+      "PackagePath": "buildMultiTargeting\\CropDeal.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CropDeal.API.props",
+      "PackagePath": "buildTransitive\\CropDeal.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
