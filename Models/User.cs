@@ -4,15 +4,10 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
+using CropDeal.API.Enums;
 
 namespace CropDeal.API.Models
 {
-    public enum UserStatus
-    {
-        Active,
-        Inactive
-    }
-
     public class User : IdentityUser<Guid>
     {
         [Required]

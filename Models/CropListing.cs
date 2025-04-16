@@ -3,14 +3,10 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
+using CropDeal.API.Enums;
 
 namespace CropDeal.API.Models
 {
-    public enum CropAvailability
-    {
-        Available,
-        OutOfStock
-    }
 
     public class CropListing
     {

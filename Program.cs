@@ -51,6 +51,7 @@ builder.Services.AddScoped<IBankAccountRepository, BankAccountRepository>();
 builder.Services.AddScoped<ICropRepository, CropRepository>();
 builder.Services.AddScoped<ISubscriptionRepository, SubscriptionRepository>();
 builder.Services.AddScoped<ICropListingRepository, CropListingRepository>();
+builder.Services.AddScoped<ITransactionRepository, TransactionRepository>();
 
 // Add controllers
 builder.Services.AddControllers()

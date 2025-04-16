@@ -3,16 +3,10 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
+using CropDeal.API.Enums;
 
 namespace CropDeal.API.Models
 {
-    public enum TransactionStatus
-    {
-        Pending,
-        Completed,
-        Cancelled
-    }
-
     public class Transaction
     {
         [Key]
@@ -34,7 +28,7 @@ namespace CropDeal.API.Models
         public float TotalPrice { get; set; }
 
         [Required]
-        public TransactionStatus Status { get; set; }
+        public TransactionStatus Status { get; set; } = TransactionStatus.Pending;
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 

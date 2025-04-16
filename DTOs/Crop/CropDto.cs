@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using CropDeal.API.Models;
+using CropDeal.API.Enums;
 
 namespace CropDeal.API.DTOs.Crop
 {
@@ -10,7 +10,7 @@ namespace CropDeal.API.DTOs.Crop
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
-        public CropTypeEnum Type { get; set; }
+        public CropType Type { get; set; }
         public DateTime CreatedAt { get; set; }
     }
 }

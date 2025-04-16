@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
+using CropDeal.API.Enums;
 using CropDeal.API.Models;
 
 namespace CropDeal.API.DTOs.Crop
@@ -16,6 +17,6 @@ namespace CropDeal.API.DTOs.Crop
         public string Name { get; set; }
 
         [Required]
-        public CropTypeEnum Type { get; set; }
+        public CropType Type { get; set; }
     }
 }

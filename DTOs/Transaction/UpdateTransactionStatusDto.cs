@@ -4,15 +4,14 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 using CropDeal.API.Enums;
-
-namespace CropDeal.API.DTOs.Crop
+namespace CropDeal.API.DTOs.Transaction
 {
-    public class CreateCropDto
+    public class UpdateTransactionStatusDto
     {
         [Required]
-        public string Name { get; set; }
+        public Guid TransactionId { get; set; }
 
         [Required]
-        public CropType Type { get; set; }
+        public TransactionStatus Status { get; set; }
     }
 }

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using CropDeal.API.Models;
+using CropDeal.API.Enums;
 
 namespace CropDeal.API.DTOs.CropListing
 {

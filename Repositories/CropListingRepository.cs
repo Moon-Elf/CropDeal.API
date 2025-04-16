@@ -8,6 +8,7 @@ using CropDeal.API.DTOs.CropListing;
 using Microsoft.EntityFrameworkCore;
 using CropDeal.API.Exceptions;
 using CropDeal.API.Models;
+using CropDeal.API.Enums;
 
 namespace CropDeal.API.Repositories
 {

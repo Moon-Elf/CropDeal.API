@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\css\\SwaggerDark.css"
     },
     {
+      "Id": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
+      "PackagePath": "staticwebassets\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CropDeal.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

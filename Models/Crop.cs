@@ -3,16 +3,10 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
+using CropDeal.API.Enums;
 
 namespace CropDeal.API.Models
 {
-    public enum CropTypeEnum
-    {
-        Fruit,
-        Vegetable,
-        Grain
-    }
-
     public class Crop
     {
         [Key]
@@ -22,7 +16,7 @@ namespace CropDeal.API.Models
         public string Name { get; set; }
 
         [Required]
-        public CropTypeEnum Type { get; set; }
+        public CropType Type { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 

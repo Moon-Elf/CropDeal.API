@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UeESzjKLaEVY6KkgZ9YCepLLnRR0rTu5jI4ykQyi1ok=",
+  "Hash": "tBPJOBE7AkO9Y/ccO+QIwbyU/OiOTZcDF6yKZvh4fDY=",
   "Source": "CropDeal.API",
   "BasePath": "_content/CropDeal.API",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\SwaggerDark.css"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3)#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u3kswii1jg",
+      "Integrity": "NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg"
     }
   ],
   "Endpoints": [
@@ -355,6 +376,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-l912zw6K1QZOuc7B0WojWopoyip0zqJApapq+o5DmYI="
+        }
+      ]
+    },
+    {
+      "Route": "images/7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 16:56:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg="
+        }
+      ]
+    },
+    {
+      "Route": "images/7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).u3kswii1jg.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 16:56:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u3kswii1jg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg="
         }
       ]
     }
