@@ -1,0 +1,132 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 5203-6F4D
+D:.
+|   appsettings.Development.json
+|   appsettings.json
+|   backendTree.txt
+|   CropDeal.API.csproj
+|   CropDeal.API.http
+|   CropDeal.API.sln
+|   Program.cs
+|   
++---Configurations
++---Controllers
+|       AddressController.cs
+|       AuthController.cs
+|       BankAccountController.cs
+|       CropController.cs
+|       CropListingController.cs
+|       ProfileController.cs
+|       ReportController.cs
+|       ReviewController.cs
+|       SubscriptionController.cs
+|       TransactionController.cs
+|       
++---Data
+|       AppDbContext.cs
+|       AppDbInitializer.cs
+|       
++---DTOs
+|   |   LoginDto.cs
+|   |   ProfileDto.cs
+|   |   SignupDto.cs
+|   |   
+|   +---Address
+|   |       AddressDto.cs
+|   |       CreateAddressDto.cs
+|   |       UpdateAddressDto.cs
+|   |       
+|   +---BankAccount
+|   |       BankAccountDto.cs
+|   |       CreateBankAccountDto.cs
+|   |       UpdateBankAccountDto.cs
+|   |       
+|   +---Crop
+|   |       CreateCropDto.cs
+|   |       CropDto.cs
+|   |       UpdateCropDto.cs
+|   |       
+|   +---CropListing
+|   |       CreateCropListingDto.cs
+|   |       CropListingDto.cs
+|   |       UpdateCropListingDto.cs
+|   |       
+|   +---Report
+|   |       CreateReportDto.cs
+|   |       ReportDto.cs
+|   |       
+|   +---Review
+|   |       CreateReviewDto.cs
+|   |       ReviewDto.cs
+|   |       
+|   +---Subscription
+|   |       CreateSubscriptionDto.cs
+|   |       SubscriptionDto.cs
+|   |       
+|   \---Transaction
+|           CreateTransactionDto.cs
+|           TransactionDto.cs
+|           UpdateTransactionStatusDto.cs
+|           
++---Enums
+|       CropAvailability.cs
+|       CropType.cs
+|       TransactionStatus.cs
+|       UserStatus.cs
+|       
++---Exceptions
+|       AppException.cs
+|       NotFoundException.cs
+|       
++---Interfaces
+|       IAddressRepository.cs
+|       IBankAccountRepository.cs
+|       ICropListingRepository.cs
+|       ICropRepository.cs
+|       IProfileRepository.cs
+|       IReportRepository.cs
+|       IReviewRepository.cs
+|       ISubscriptionRepository.cs
+|       ITransactionRepository.cs
+|       
++---Middleware
+|       ExceptionMiddleware.cs
+|       
+|       
++---Models
+|       Address.cs
+|       BankAccount.cs
+|       Crop.cs
+|       CropListing.cs
+|       Report.cs
+|       Review.cs
+|       Subscription.cs
+|       Transaction.cs
+|       User.cs
+|       
+|                   
++---Properties
+|       launchSettings.json
+|       
++---Repositories
+|       AddressRepository.cs
+|       BankAccountRepository.cs
+|       CropListingRepository.cs
+|       CropRepository.cs
+|       ProfileRepository.cs
+|       ReportRepository.cs
+|       ReviewRepository.cs
+|       SubscriptionRepository.cs
+|       TransactionRepository.cs
+|       
++---Services
+\---wwwroot
+    +---css
+    |       SwaggerDark.css
+    |       
+    \---images
+            6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg
+            6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg
+            7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg
+            d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg
+            

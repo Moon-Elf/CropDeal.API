@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tBPJOBE7AkO9Y/ccO+QIwbyU/OiOTZcDF6yKZvh4fDY=",
+  "Hash": "DS3rs+vzsQLg9CnzoHJwu/VLrgwfB2a/HajaxfmoDcg=",
   "Source": "CropDeal.API",
   "BasePath": "_content/CropDeal.API",
   "Mode": "Default",
@@ -59,6 +59,48 @@
       "OriginalItemSpec": "wwwroot\\css\\SwaggerDark.css"
     },
     {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dqi0yc66rr",
+      "Integrity": "K68hF9Y7kzixEePKoBuScImrKAYDFstPs4DOZde/LdM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5s8mlw2xiq",
+      "Integrity": "9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg"
+    },
+    {
       "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
       "SourceId": "CropDeal.API",
       "SourceType": "Discovered",
@@ -78,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5s8mlw2xiq",
+      "Integrity": "9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg"
     }
   ],
   "Endpoints": [
@@ -380,6 +443,170 @@
       ]
     },
     {
+      "Route": "images/6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.dqi0yc66rr.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K68hF9Y7kzixEePKoBuScImrKAYDFstPs4DOZde/LdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 06:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dqi0yc66rr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K68hF9Y7kzixEePKoBuScImrKAYDFstPs4DOZde/LdM="
+        }
+      ]
+    },
+    {
+      "Route": "images/6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7189"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K68hF9Y7kzixEePKoBuScImrKAYDFstPs4DOZde/LdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 06:44:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K68hF9Y7kzixEePKoBuScImrKAYDFstPs4DOZde/LdM="
+        }
+      ]
+    },
+    {
+      "Route": "images/6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.5s8mlw2xiq.jpg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 05:57:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5s8mlw2xiq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4="
+        }
+      ]
+    },
+    {
+      "Route": "images/6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 05:57:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4="
+        }
+      ]
+    },
+    {
       "Route": "images/7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
       "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
       "Selectors": [],
@@ -458,6 +685,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg="
+        }
+      ]
+    },
+    {
+      "Route": "images/d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.5s8mlw2xiq.jpg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 05:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5s8mlw2xiq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4="
+        }
+      ]
+    },
+    {
+      "Route": "images/d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 05:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4="
         }
       ]
     }

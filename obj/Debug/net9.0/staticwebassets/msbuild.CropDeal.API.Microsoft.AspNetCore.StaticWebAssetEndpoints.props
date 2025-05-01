@@ -12,6 +12,30 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jh7vvhjhhh"},{"Name":"integrity","Value":"sha256-WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q="},{"Name":"label","Value":"_content/CropDeal.API/css/SwaggerDark.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51124"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WfVU68WNLn3dFQAUzvNoVtVkiyhovSe2pxE5D4ueh9Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 18:46:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CropDeal.API/images/6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.dqi0yc66rr.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dqi0yc66rr"},{"Name":"integrity","Value":"sha256-K68hF9Y7kzixEePKoBuScImrKAYDFstPs4DOZde/LdM="},{"Name":"label","Value":"_content/CropDeal.API/images/6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7189"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022K68hF9Y7kzixEePKoBuScImrKAYDFstPs4DOZde/LdM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 06:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CropDeal.API/images/6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-K68hF9Y7kzixEePKoBuScImrKAYDFstPs4DOZde/LdM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7189"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022K68hF9Y7kzixEePKoBuScImrKAYDFstPs4DOZde/LdM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 06:44:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CropDeal.API/images/6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.5s8mlw2xiq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5s8mlw2xiq"},{"Name":"integrity","Value":"sha256-9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4="},{"Name":"label","Value":"_content/CropDeal.API/images/6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1008827"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 05:57:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CropDeal.API/images/6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1008827"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 05:57:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CropDeal.API/images/7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -23,6 +47,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u3kswii1jg"},{"Name":"integrity","Value":"sha256-NqNHOVlW9F7N8hcR\u002B0ij4Q7PjIZ0fq9F9\u002BYhpGT7xHg="},{"Name":"label","Value":"_content/CropDeal.API/images/7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2896"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NqNHOVlW9F7N8hcR\u002B0ij4Q7PjIZ0fq9F9\u002BYhpGT7xHg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 16:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CropDeal.API/images/d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.5s8mlw2xiq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5s8mlw2xiq"},{"Name":"integrity","Value":"sha256-9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4="},{"Name":"label","Value":"_content/CropDeal.API/images/d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1008827"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 05:57:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CropDeal.API/images/d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1008827"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 05:57:35 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

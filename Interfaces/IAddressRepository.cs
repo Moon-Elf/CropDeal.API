@@ -9,6 +9,7 @@ namespace CropDeal.API.Interfaces
 {
     public interface IAddressRepository
     {
+    
         Task<IEnumerable<Address>> GetUserAddressesAsync(Guid userId);
         Task<Address> GetAddressByIdAsync(Guid id);
         Task<bool> CreateAddressAsync(CreateAddressDto dto, Guid userId);

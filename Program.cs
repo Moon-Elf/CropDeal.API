@@ -52,6 +52,8 @@ builder.Services.AddScoped<ICropRepository, CropRepository>();
 builder.Services.AddScoped<ISubscriptionRepository, SubscriptionRepository>();
 builder.Services.AddScoped<ICropListingRepository, CropListingRepository>();
 builder.Services.AddScoped<ITransactionRepository, TransactionRepository>();
+builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
+builder.Services.AddScoped<IReportRepository, ReportRepository>();
 
 // Add controllers
 builder.Services.AddControllers()
@@ -89,6 +91,16 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend",
+        builder =>
+        {
+            builder.WithOrigins("http://localhost:4200")
+                   .AllowAnyHeader()
+                   .AllowAnyMethod();
+        });
+});
 
 var app = builder.Build();
 
@@ -98,19 +110,20 @@ using (var scope = app.Services.CreateScope())
     var services = scope.ServiceProvider;
     await AppDbInitializer.SeedRolesAsync(services);
 }
-app.UseStaticFiles();  // ADD THIS LINE
+app.UseStaticFiles(); 
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
         c.EnableTryItOutByDefault();
-        c.InjectStylesheet("/css/SwaggerDark.css");  // ADD THIS LINE
+        c.InjectStylesheet("/css/SwaggerDark.css");  
     });
 }
 
 app.UseHttpsRedirection();
 app.UseMiddleware<ExceptionMiddleware>();
+app.UseCors("AllowFrontend");
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();

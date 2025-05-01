@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\css\\SwaggerDark.css"
     },
     {
+      "Id": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg",
+      "PackagePath": "staticwebassets\\images\\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg"
+    },
+    {
+      "Id": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg",
+      "PackagePath": "staticwebassets\\images\\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg"
+    },
+    {
       "Id": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
       "PackagePath": "staticwebassets\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg"
+    },
+    {
+      "Id": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg",
+      "PackagePath": "staticwebassets\\images\\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CropDeal.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

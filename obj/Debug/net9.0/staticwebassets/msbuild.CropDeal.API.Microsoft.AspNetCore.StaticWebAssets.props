@@ -18,6 +18,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\SwaggerDark.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dqi0yc66rr</Fingerprint>
+      <Integrity>K68hF9Y7kzixEePKoBuScImrKAYDFstPs4DOZde/LdM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5s8mlw2xiq</Fingerprint>
+      <Integrity>9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>CropDeal.API</SourceId>
@@ -35,6 +71,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5s8mlw2xiq</Fingerprint>
+      <Integrity>9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

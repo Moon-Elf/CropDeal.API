@@ -11,7 +11,6 @@ namespace CropDeal.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Roles = "Admin")]
     public class CropController : ControllerBase
     {
         private readonly ICropRepository _cropRepo;
@@ -29,6 +28,7 @@ namespace CropDeal.API.Controllers
         }
 
         [HttpGet("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Get(Guid id)
         {
             var crop = await _cropRepo.GetCropByIdAsync(id);
@@ -36,6 +36,7 @@ namespace CropDeal.API.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(CreateCropDto dto)
         {
             await _cropRepo.CreateCropAsync(dto);
@@ -43,6 +44,7 @@ namespace CropDeal.API.Controllers
         }
 
         [HttpPut]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Update(UpdateCropDto dto)
         {
             await _cropRepo.UpdateCropAsync(dto);
@@ -50,6 +52,7 @@ namespace CropDeal.API.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(Guid id)
         {
             await _cropRepo.DeleteCropAsync(id);
