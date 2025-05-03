@@ -56,7 +56,7 @@ namespace CropDeal.API.Controllers
 
             await _userManager.AddToRoleAsync(user, dto.Role);
 
-            return Ok("User registered successfully.");
+            return Ok(new { message = "User registered successfully." });
         }
 
         [HttpPost("login")]

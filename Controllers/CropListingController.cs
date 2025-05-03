@@ -24,7 +24,7 @@ namespace CropDeal.API.Controllers
         }
 
         [HttpGet]
-        [AllowAnonymous]
+        [Authorize(Roles = "Farmer,Dealer,Admin")]
         public async Task<IActionResult> GetAll()
         {
             var listings = await _listingRepo.GetAllListingsAsync();
@@ -32,7 +32,7 @@ namespace CropDeal.API.Controllers
         }
 
         [HttpGet("{id}")]
-        [AllowAnonymous]
+        [Authorize(Roles = "Farmer,Dealer,Admin")]
         public async Task<IActionResult> GetById(Guid id)
         {
             var listing = await _listingRepo.GetListingByIdAsync(id);
