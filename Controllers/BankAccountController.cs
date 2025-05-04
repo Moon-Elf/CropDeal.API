@@ -63,21 +63,21 @@ namespace CropDeal.API.Controllers
         public async Task<IActionResult> AddBankAccount(CreateBankAccountDto dto)
         {
             await _bankAccountRepo.CreateBankAccountAsync(dto, UserId());
-            return Ok("Bank Account added successfully.");
+            return Ok(new {message="Bank Account added successfully."});
         }
 
         [HttpPut]
         public async Task<IActionResult> UpdateBankAccount(UpdateBankAccountDto dto)
         {
             await _bankAccountRepo.UpdateBankAccountAsync(dto, UserId());
-            return Ok("Bank Account updated successfully");
+            return Ok(new {message="Bank Account updated successfully"});
         }
 
         [HttpDelete]
         public async Task<IActionResult> DeleteBankAccount(Guid id)
         {
             await _bankAccountRepo.DeleteBankAccountAsync(id, UserId());
-            return Ok("Bank Account deleted successfully");
+            return Ok(new {message="Bank Account deleted successfully"});
         }
 
         private Guid UserId()

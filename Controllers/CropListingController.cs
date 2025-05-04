@@ -54,19 +54,19 @@ namespace CropDeal.API.Controllers
             string imagePath = await SaveImageAsync(dto.Image);
 
             await _listingRepo.CreateListingAsync(dto, UserId(), imagePath);
-            return Ok("Crop listing created successfully.");
+            return Ok(new { message = "Listing created successfully" });
         }
 
-        [HttpPut]
+        [HttpPut("{id}")]
         [Authorize(Roles = "Farmer")]
-        public async Task<IActionResult> Update([FromForm] UpdateCropListingDto dto)
+        public async Task<IActionResult> Update(Guid id, [FromForm] UpdateCropListingDto dto)
         {
             string? imagePath = null;
             if (dto.Image != null)
                 imagePath = await SaveImageAsync(dto.Image);
 
             await _listingRepo.UpdateListingAsync(dto, UserId(), imagePath);
-            return Ok("Crop listing updated successfully.");
+            return Ok(new { message = "Crop listing updated successfully." });
         }
 
         [HttpDelete("{id}")]
@@ -74,7 +74,8 @@ namespace CropDeal.API.Controllers
         public async Task<IActionResult> Delete(Guid id)
         {
             await _listingRepo.DeleteListingAsync(id, UserId());
-            return Ok("Crop listing deleted.");
+            return Ok(new { message = "Crop listing deleted." });
+
         }
 
         private Guid UserId()

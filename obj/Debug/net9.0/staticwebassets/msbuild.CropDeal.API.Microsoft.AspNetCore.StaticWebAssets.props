@@ -18,6 +18,132 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\SwaggerDark.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9hyj10v56z</Fingerprint>
+      <Integrity>TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qmero3hgt8</Fingerprint>
+      <Integrity>LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4f0c038d-8094-4d07-8717-da0000b671fc_download (3).jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/4f0c038d-8094-4d07-8717-da0000b671fc_download (3).jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u3kswii1jg</Fingerprint>
+      <Integrity>NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4f0c038d-8094-4d07-8717-da0000b671fc_download (3).jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\549b8461-30aa-4107-a8ec-9c6369a27e2e_banana.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/549b8461-30aa-4107-a8ec-9c6369a27e2e_banana.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9hyj10v56z</Fingerprint>
+      <Integrity>TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\549b8461-30aa-4107-a8ec-9c6369a27e2e_banana.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5ad25f0c-259c-47da-92a9-8022279b0e3e_apple.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/5ad25f0c-259c-47da-92a9-8022279b0e3e_apple.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qmero3hgt8</Fingerprint>
+      <Integrity>LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\5ad25f0c-259c-47da-92a9-8022279b0e3e_apple.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3).jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3).jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>u3kswii1jg</Fingerprint>
+      <Integrity>NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3).jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qmero3hgt8</Fingerprint>
+      <Integrity>LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>CropDeal.API</SourceId>
@@ -54,6 +180,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\76d24db0-19d6-45af-9036-240a051f6f23_apple.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/76d24db0-19d6-45af-9036-240a051f6f23_apple.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qmero3hgt8</Fingerprint>
+      <Integrity>LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\76d24db0-19d6-45af-9036-240a051f6f23_apple.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>CropDeal.API</SourceId>
@@ -72,6 +216,78 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\87071f7e-1dea-4302-8212-7cb472a2f46a_apple.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/87071f7e-1dea-4302-8212-7cb472a2f46a_apple.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qmero3hgt8</Fingerprint>
+      <Integrity>LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\87071f7e-1dea-4302-8212-7cb472a2f46a_apple.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\8e69c50e-eaea-4150-95d8-731a701821fa_banana.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/8e69c50e-eaea-4150-95d8-731a701821fa_banana.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9hyj10v56z</Fingerprint>
+      <Integrity>TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\8e69c50e-eaea-4150-95d8-731a701821fa_banana.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9hyj10v56z</Fingerprint>
+      <Integrity>TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d4aa3099-b233-485f-9a0a-bb1403b5473b_apple.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/d4aa3099-b233-485f-9a0a-bb1403b5473b_apple.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qmero3hgt8</Fingerprint>
+      <Integrity>LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d4aa3099-b233-485f-9a0a-bb1403b5473b_apple.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CropDeal.API</SourceId>
@@ -89,6 +305,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d6694db7-cc5b-43cd-aa08-12327e6cf038_apple.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CropDeal.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CropDeal.API</BasePath>
+      <RelativePath>images/d6694db7-cc5b-43cd-aa08-12327e6cf038_apple.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qmero3hgt8</Fingerprint>
+      <Integrity>LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d6694db7-cc5b-43cd-aa08-12327e6cf038_apple.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

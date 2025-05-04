@@ -65,21 +65,21 @@ namespace CropDeal.API.Controllers
         public async Task<IActionResult> AddAddress(CreateAddressDto dto)
         {
             await _addressRepo.CreateAddressAsync(dto, UserId());
-            return Ok("Address added successfully.");
+            return Ok(new {message="Address added successfully."});
         }
 
         [HttpPut]
         public async Task<IActionResult> UpdateAddress(UpdateAddressDto dto)
         {
             await _addressRepo.UpdateAddressAsync(dto, UserId());
-            return Ok("Address updated successfully.");
+            return Ok(new {message="Address updated successfully."});
         }
 
         [HttpDelete]
         public async Task<IActionResult> DeleteAddress(Guid id)
         {
             await _addressRepo.DeleteAddressAsync(id, UserId());
-            return Ok("Address deleted successfully.");
+            return Ok(new {message="Address deleted successfully."});
         }
 
         private Guid UserId()

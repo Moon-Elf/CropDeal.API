@@ -54,7 +54,7 @@ namespace CropDeal.API.Controllers
             if (!updated)
                 return BadRequest("Failed to update profile.");
 
-            return Ok("Profile updated successfully");
+            return Ok(new {message="Profile updated successfully"});
         }
     }
 }

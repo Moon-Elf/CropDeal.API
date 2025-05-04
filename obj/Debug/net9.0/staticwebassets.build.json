@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DS3rs+vzsQLg9CnzoHJwu/VLrgwfB2a/HajaxfmoDcg=",
+  "Hash": "9nAmKtpcFKDkdvxs/4M+pBU3EPiH0LCGanqEon9eQPU=",
   "Source": "CropDeal.API",
   "BasePath": "_content/CropDeal.API",
   "Mode": "Default",
@@ -59,6 +59,153 @@
       "OriginalItemSpec": "wwwroot\\css\\SwaggerDark.css"
     },
     {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9hyj10v56z",
+      "Integrity": "TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana.jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qmero3hgt8",
+      "Integrity": "LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple.jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\4f0c038d-8094-4d07-8717-da0000b671fc_download (3).jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/4f0c038d-8094-4d07-8717-da0000b671fc_download (3)#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u3kswii1jg",
+      "Integrity": "NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4f0c038d-8094-4d07-8717-da0000b671fc_download (3).jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\549b8461-30aa-4107-a8ec-9c6369a27e2e_banana.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/549b8461-30aa-4107-a8ec-9c6369a27e2e_banana#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9hyj10v56z",
+      "Integrity": "TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\549b8461-30aa-4107-a8ec-9c6369a27e2e_banana.jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\5ad25f0c-259c-47da-92a9-8022279b0e3e_apple.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/5ad25f0c-259c-47da-92a9-8022279b0e3e_apple#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qmero3hgt8",
+      "Integrity": "LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5ad25f0c-259c-47da-92a9-8022279b0e3e_apple.jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3).jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3)#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u3kswii1jg",
+      "Integrity": "NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3).jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qmero3hgt8",
+      "Integrity": "LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple.jpeg"
+    },
+    {
       "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg",
       "SourceId": "CropDeal.API",
       "SourceType": "Discovered",
@@ -101,6 +248,27 @@
       "OriginalItemSpec": "wwwroot\\images\\6ff3ddb6-5db6-4324-99f8-483c192900f0_fresh-wheat-crop.jpg"
     },
     {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\76d24db0-19d6-45af-9036-240a051f6f23_apple.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/76d24db0-19d6-45af-9036-240a051f6f23_apple#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qmero3hgt8",
+      "Integrity": "LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\76d24db0-19d6-45af-9036-240a051f6f23_apple.jpeg"
+    },
+    {
       "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
       "SourceId": "CropDeal.API",
       "SourceType": "Discovered",
@@ -122,6 +290,90 @@
       "OriginalItemSpec": "wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg"
     },
     {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\87071f7e-1dea-4302-8212-7cb472a2f46a_apple.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/87071f7e-1dea-4302-8212-7cb472a2f46a_apple#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qmero3hgt8",
+      "Integrity": "LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\87071f7e-1dea-4302-8212-7cb472a2f46a_apple.jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\8e69c50e-eaea-4150-95d8-731a701821fa_banana.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/8e69c50e-eaea-4150-95d8-731a701821fa_banana#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9hyj10v56z",
+      "Integrity": "TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8e69c50e-eaea-4150-95d8-731a701821fa_banana.jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9hyj10v56z",
+      "Integrity": "TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana.jpeg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d4aa3099-b233-485f-9a0a-bb1403b5473b_apple.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/d4aa3099-b233-485f-9a0a-bb1403b5473b_apple#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qmero3hgt8",
+      "Integrity": "LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d4aa3099-b233-485f-9a0a-bb1403b5473b_apple.jpeg"
+    },
+    {
       "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg",
       "SourceId": "CropDeal.API",
       "SourceType": "Discovered",
@@ -141,6 +393,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg"
+    },
+    {
+      "Identity": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d6694db7-cc5b-43cd-aa08-12327e6cf038_apple.jpeg",
+      "SourceId": "CropDeal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\",
+      "BasePath": "_content/CropDeal.API",
+      "RelativePath": "images/d6694db7-cc5b-43cd-aa08-12327e6cf038_apple#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qmero3hgt8",
+      "Integrity": "LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d6694db7-cc5b-43cd-aa08-12327e6cf038_apple.jpeg"
     }
   ],
   "Endpoints": [
@@ -443,6 +716,580 @@
       ]
     },
     {
+      "Route": "images/07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana.9hyj10v56z.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 07:01:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9hyj10v56z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\07d7cb9e-d7f1-4a94-90a4-39a25aec2884_banana.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 07:01:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 08:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple.qmero3hgt8.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 08:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qmero3hgt8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/39cd990e-fd32-4a42-a974-8ff3ed2ae42d_apple.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/4f0c038d-8094-4d07-8717-da0000b671fc_download (3).jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\4f0c038d-8094-4d07-8717-da0000b671fc_download (3).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 08:36:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg="
+        }
+      ]
+    },
+    {
+      "Route": "images/4f0c038d-8094-4d07-8717-da0000b671fc_download (3).u3kswii1jg.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\4f0c038d-8094-4d07-8717-da0000b671fc_download (3).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 08:36:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u3kswii1jg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4f0c038d-8094-4d07-8717-da0000b671fc_download (3).jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg="
+        }
+      ]
+    },
+    {
+      "Route": "images/549b8461-30aa-4107-a8ec-9c6369a27e2e_banana.9hyj10v56z.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\549b8461-30aa-4107-a8ec-9c6369a27e2e_banana.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 06:42:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9hyj10v56z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/549b8461-30aa-4107-a8ec-9c6369a27e2e_banana.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/549b8461-30aa-4107-a8ec-9c6369a27e2e_banana.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\549b8461-30aa-4107-a8ec-9c6369a27e2e_banana.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 06:42:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/5ad25f0c-259c-47da-92a9-8022279b0e3e_apple.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\5ad25f0c-259c-47da-92a9-8022279b0e3e_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 06:59:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/5ad25f0c-259c-47da-92a9-8022279b0e3e_apple.qmero3hgt8.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\5ad25f0c-259c-47da-92a9-8022279b0e3e_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 06:59:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qmero3hgt8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5ad25f0c-259c-47da-92a9-8022279b0e3e_apple.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3).jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 08:34:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg="
+        }
+      ]
+    },
+    {
+      "Route": "images/6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3).u3kswii1jg.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3).jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 08:34:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u3kswii1jg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6270810f-fbc6-499a-8aeb-cda7a87072bb_download (3).jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NqNHOVlW9F7N8hcR+0ij4Q7PjIZ0fq9F9+YhpGT7xHg="
+        }
+      ]
+    },
+    {
+      "Route": "images/63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 07:06:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple.qmero3hgt8.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 07:06:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qmero3hgt8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/63fb8224-4d77-44e8-a6b7-89e66e5e6d04_apple.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
       "Route": "images/6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.dqi0yc66rr.jpeg",
       "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\6b0e9089-0cce-4e2b-92fc-a63ecb38f2c6_cord.jpeg",
       "Selectors": [],
@@ -607,6 +1454,88 @@
       ]
     },
     {
+      "Route": "images/76d24db0-19d6-45af-9036-240a051f6f23_apple.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\76d24db0-19d6-45af-9036-240a051f6f23_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 07:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/76d24db0-19d6-45af-9036-240a051f6f23_apple.qmero3hgt8.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\76d24db0-19d6-45af-9036-240a051f6f23_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 07:30:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qmero3hgt8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/76d24db0-19d6-45af-9036-240a051f6f23_apple.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
       "Route": "images/7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
       "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\7d37da83-fbdc-4dfe-a3be-23e0948dd693_download (3).jpeg",
       "Selectors": [],
@@ -689,6 +1618,334 @@
       ]
     },
     {
+      "Route": "images/87071f7e-1dea-4302-8212-7cb472a2f46a_apple.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\87071f7e-1dea-4302-8212-7cb472a2f46a_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 06:45:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/87071f7e-1dea-4302-8212-7cb472a2f46a_apple.qmero3hgt8.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\87071f7e-1dea-4302-8212-7cb472a2f46a_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 06:45:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qmero3hgt8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/87071f7e-1dea-4302-8212-7cb472a2f46a_apple.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/8e69c50e-eaea-4150-95d8-731a701821fa_banana.9hyj10v56z.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\8e69c50e-eaea-4150-95d8-731a701821fa_banana.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 06:31:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9hyj10v56z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8e69c50e-eaea-4150-95d8-731a701821fa_banana.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/8e69c50e-eaea-4150-95d8-731a701821fa_banana.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\8e69c50e-eaea-4150-95d8-731a701821fa_banana.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 06:31:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana.9hyj10v56z.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 06:32:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9hyj10v56z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\b0da2719-a2c2-4dc6-ad36-5143dbe53dda_banana.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 06:32:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQYkQ5ERJKFV7n5s8ZXSUwZSgNQ1FgI3G3oxHkKjkCw="
+        }
+      ]
+    },
+    {
+      "Route": "images/d4aa3099-b233-485f-9a0a-bb1403b5473b_apple.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d4aa3099-b233-485f-9a0a-bb1403b5473b_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 07:27:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/d4aa3099-b233-485f-9a0a-bb1403b5473b_apple.qmero3hgt8.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d4aa3099-b233-485f-9a0a-bb1403b5473b_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 07:27:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qmero3hgt8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d4aa3099-b233-485f-9a0a-bb1403b5473b_apple.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
       "Route": "images/d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.5s8mlw2xiq.jpg",
       "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d5fc0724-9a8a-4640-b580-e33d1f85d569_fresh-wheat-crop.jpg",
       "Selectors": [],
@@ -767,6 +2024,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-9eo8fWgJNg8F4NXjonxbpo2kZVcROspPv4cgCbFdKp4="
+        }
+      ]
+    },
+    {
+      "Route": "images/d6694db7-cc5b-43cd-aa08-12327e6cf038_apple.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d6694db7-cc5b-43cd-aa08-12327e6cf038_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 08:06:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
+        }
+      ]
+    },
+    {
+      "Route": "images/d6694db7-cc5b-43cd-aa08-12327e6cf038_apple.qmero3hgt8.jpeg",
+      "AssetFile": "D:\\Capgemini\\Project or Case study\\CropDeal\\backend\\CropDeal.API\\wwwroot\\images\\d6694db7-cc5b-43cd-aa08-12327e6cf038_apple.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 08:06:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qmero3hgt8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d6694db7-cc5b-43cd-aa08-12327e6cf038_apple.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmnUnYbUOhj+wcBtmsXkwCAIVDurbvAtynYmjRqJLm0="
         }
       ]
     }

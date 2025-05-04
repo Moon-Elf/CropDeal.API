@@ -29,7 +29,7 @@ namespace CropDeal.API.Controllers
 
         [HttpGet("{id}")]
         [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> Get(Guid id)
+        public async Task<IActionResult> GetById(Guid id)
         {
             var crop = await _cropRepo.GetCropByIdAsync(id);
             return Ok(crop);
@@ -40,15 +40,15 @@ namespace CropDeal.API.Controllers
         public async Task<IActionResult> Create(CreateCropDto dto)
         {
             await _cropRepo.CreateCropAsync(dto);
-            return Ok("Crop created successfully.");
+            return Ok(new {message="Crop created successfully."});
         }
 
-        [HttpPut]
+        [HttpPut("{id}")]
         [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> Update(UpdateCropDto dto)
+        public async Task<IActionResult> Update(Guid id, UpdateCropDto dto)
         {
             await _cropRepo.UpdateCropAsync(dto);
-            return Ok("Crop updated successfully.");
+            return Ok(new {message="Crop updated successfully."});
         }
 
         [HttpDelete("{id}")]
@@ -56,7 +56,7 @@ namespace CropDeal.API.Controllers
         public async Task<IActionResult> Delete(Guid id)
         {
             await _cropRepo.DeleteCropAsync(id);
-            return Ok("Crop deleted successfully.");
+            return Ok(new {message="Crop deleted successfully."});
         }
     }
 }
