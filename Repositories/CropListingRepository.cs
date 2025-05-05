@@ -49,6 +49,7 @@ namespace CropDeal.API.Repositories
             var listings = await _context.CropListings
                 .Where(cl => cl.FarmerId == farmerId)
                 .Include(cl => cl.Crop)
+                .Include(cl => cl.Farmer)
                 .ToListAsync();
 
             return listings.Select(MapToDto);
@@ -131,7 +132,8 @@ namespace CropDeal.API.Repositories
                 ImageUrl = listing.ImageUrl,
                 Status = listing.Status,
                 CreatedAt = listing.CreatedAt,
-                UpdatedAt = listing.UpdatedAt
+                UpdatedAt = listing.UpdatedAt,
+                FarmerId = listing.FarmerId
             };
         }
 

@@ -24,7 +24,7 @@ namespace CropDeal.API.Controllers
         }
 
         [HttpGet]
-        [Authorize(Roles = "Farmer,Dealer,Admin")]
+        // [Authorize(Roles = "Farmer,Dealer,Admin")]
         public async Task<IActionResult> GetAll()
         {
             var listings = await _listingRepo.GetAllListingsAsync();

@@ -28,7 +28,6 @@ namespace CropDeal.API.Controllers
         }
 
         [HttpGet("{id}")]
-        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetById(Guid id)
         {
             var crop = await _cropRepo.GetCropByIdAsync(id);

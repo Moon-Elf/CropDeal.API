@@ -54,6 +54,7 @@ builder.Services.AddScoped<ICropListingRepository, CropListingRepository>();
 builder.Services.AddScoped<ITransactionRepository, TransactionRepository>();
 builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
 builder.Services.AddScoped<IReportRepository, ReportRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 
 // Add controllers
 builder.Services.AddControllers()

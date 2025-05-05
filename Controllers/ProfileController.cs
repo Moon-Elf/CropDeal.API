@@ -56,5 +56,6 @@ namespace CropDeal.API.Controllers
 
             return Ok(new {message="Profile updated successfully"});
         }
+
     }
 }

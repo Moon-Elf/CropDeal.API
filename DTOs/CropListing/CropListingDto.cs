@@ -18,5 +18,7 @@ namespace CropDeal.API.DTOs.CropListing
         public CropAvailability Status { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
+
+        public Guid FarmerId { get; set; }
     }
 }
