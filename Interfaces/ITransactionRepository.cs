@@ -10,6 +10,7 @@ namespace CropDeal.API.Interfaces
 {
     public interface ITransactionRepository
     {
+        Task<IEnumerable<Transaction>> GetAll();
         Task<IEnumerable<Transaction>> GetAllForUserAsync(Guid userId, string role);
         Task<Transaction> GetByIdAsync(Guid transactionId);
         Task<bool> CreateTransactionAsync(CreateTransactionDto dto, Guid dealerId);

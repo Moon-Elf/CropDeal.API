@@ -18,5 +18,6 @@ namespace CropDeal.API.DTOs.Transaction
 
         public TransactionStatus Status { get; set; }
         public DateTime CreatedAt { get; set; }
+        public Guid? ReviewId { get; set; }
     }
 }

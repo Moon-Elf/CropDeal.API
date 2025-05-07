@@ -21,6 +21,11 @@ namespace CropDeal.API.Repositories
             _context = context;
         }
 
+        public async Task<IEnumerable<Transaction>> GetAll() {
+            return await _context.Transactions.ToListAsync();
+            
+        }
+
         public async Task<IEnumerable<Transaction>> GetAllForUserAsync(Guid userId, string role)
         {
             IEnumerable<Transaction> transactions = null;
