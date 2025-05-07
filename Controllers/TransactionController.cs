@@ -13,7 +13,7 @@ namespace CropDeal.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Roles = "Farmer,Dealer")]
+    [Authorize(Roles = "Farmer,Dealer,Admin")]
     public class TransactionController : ControllerBase
     {
         private readonly ITransactionRepository _transactionRepo;
@@ -70,14 +70,14 @@ namespace CropDeal.API.Controllers
         public async Task<IActionResult> Create(CreateTransactionDto dto)
         {
             await _transactionRepo.CreateTransactionAsync(dto, GetUserId());
-            return Ok("Transaction created successfully.");
+            return Ok(new {message="Transaction created successfully."});
         }
 
         [HttpPatch("{id}/status")]
         public async Task<IActionResult> UpdateStatus(Guid id, [FromQuery] TransactionStatus status)
         {
             await _transactionRepo.UpdateTransactionStatusAsync(id, status, GetUserId(), GetUserRole());
-            return Ok("Transaction status updated successfully.");
+            return Ok(new {message="Transaction status updated successfully."});
         }
 
         private Guid GetUserId()

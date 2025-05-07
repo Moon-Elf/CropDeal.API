@@ -114,7 +114,6 @@ namespace CropDeal.API.Repositories
                 cropListing.Quantity += transaction.Quantity;
                 cropListing.Status = CropAvailability.Available;
             }
-
             transaction.Status = status;
             transaction.UpdatedAt = DateTime.UtcNow;
 

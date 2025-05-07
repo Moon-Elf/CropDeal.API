@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CropDeal.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c40884b88a0dfadf5471c9166259e59032f2aa2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c85a44d361ab7cd20744819579eba006e543103")]
 [assembly: System.Reflection.AssemblyProductAttribute("CropDeal.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CropDeal.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
