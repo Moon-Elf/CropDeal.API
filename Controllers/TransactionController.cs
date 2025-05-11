@@ -48,7 +48,7 @@ namespace CropDeal.API.Controllers
             return Ok(result);
         }
 
-        [HttpGet("/my")]
+        [HttpGet("my")]
         public async Task<IActionResult> GetMyTransactions()
         {
             var userId = GetUserId();

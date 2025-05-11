@@ -40,14 +40,14 @@ namespace CropDeal.API.Controllers
         public async Task<IActionResult> Subscribe(CreateSubscriptionDto dto)
         {
             await _subscriptionRepo.CreateSubscriptionAsync(dto, GetUserId());
-            return Ok("Subscribed to crop successfully.");
+            return Ok(new {message="Subscribed to crop successfully."});
         }
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> Unsubscribe(Guid id)
         {
             await _subscriptionRepo.DeleteSubscriptionAsync(id, GetUserId());
-            return Ok("Unsubscribed from crop successfully.");
+            return Ok(new {message="Unsubscribed from crop successfully."});
         }
 
 

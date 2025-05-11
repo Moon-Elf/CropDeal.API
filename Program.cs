@@ -111,14 +111,14 @@ using (var scope = app.Services.CreateScope())
     var services = scope.ServiceProvider;
     await AppDbInitializer.SeedRolesAsync(services);
 }
-app.UseStaticFiles(); 
+app.UseStaticFiles();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
         c.EnableTryItOutByDefault();
-        c.InjectStylesheet("/css/SwaggerDark.css");  
+        c.InjectStylesheet("/css/SwaggerDark.css");
     });
 }
 
