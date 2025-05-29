@@ -10,5 +10,6 @@ namespace CropDeal.API.Interfaces
     {
         Task<IEnumerable<User>> GetAllUsersAsync();
         Task<User?> GetUserByIdAsync(Guid id);
+        Task<bool> ToggleStatus(Guid id);
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using CropDeal.API.DTOs.User;
+using CropDeal.API.Enums;
 using CropDeal.API.Interfaces;
 using CropDeal.API.Models;
 using Microsoft.AspNetCore.Authorization;
@@ -18,7 +19,7 @@ namespace CropDeal.API.Controllers
     {
         private readonly IUserRepository _userRepository;
         private readonly UserManager<User> _userManager;
-        
+
         public UsersController(IUserRepository userRepository, UserManager<User> userManager)
         {
             _userRepository = userRepository;
@@ -43,7 +44,8 @@ namespace CropDeal.API.Controllers
                     PhoneNumber = user.PhoneNumber,
                     AverageRating = user.AverageRating,
                     Email = user.Email,
-                    Role = roles.FirstOrDefault() ?? "Unknown"
+                    Role = roles.FirstOrDefault() ?? "Unknown",
+                    Status = user.Status
                 });
             }
 
@@ -65,10 +67,20 @@ namespace CropDeal.API.Controllers
                 PhoneNumber = user.PhoneNumber,
                 AverageRating = user.AverageRating,
                 Email = user.Email,
-                Role = roles.FirstOrDefault() ?? "Unknown"
+                Role = roles.FirstOrDefault() ?? "Unknown",
+                Status = user.Status
             };
 
             return Ok(userDto);
+        }
+
+        [HttpPut]
+        public async Task<ActionResult> ChangeStatus([FromQuery] Guid id)
+        {
+
+            Console.WriteLine(id);
+            await _userRepository.ToggleStatus(id);
+            return Ok(new { message = "Status Updated" });
         }
     }
 }
